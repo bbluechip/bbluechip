@@ -2,8 +2,8 @@
 <p align="center">
 
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaser-demet-42731421b/) 
-<a href="https://yaserdemet.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=yaserdemet" alt="visitor counter"/>
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orhan-berk-d-2a8a7b238/) 
+<a href="https://github.com/bbluechip" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=yaserdemet" alt="visitor counter"/>
 </p>
 
 
@@ -150,8 +150,8 @@
 <h3 align="left">📫 &nbsp;Feel Free to Contact me.....</h3>
 
 <p align="center">
-	<a href="https://github.com/yaserdemet"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-	<a href="https://www.linkedin.com/in/yaser-demet-42731421b/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="https://github.com/bbluechip"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="https://www.linkedin.com/in/orhan-berk-d-2a8a7b238/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	
 </p>
 
@@ -160,6 +160,6 @@
 <div align="center">
  <b style = {font-weight: 600}>Visitors Count</b>
 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{yaserdemet}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{bbluechip}/count.svg" /></p> 
 <br>
 </div>
