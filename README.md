@@ -21,10 +21,10 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+[![My Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bbluechip&theme=chartreuse-dark&layout=compact)]()
 
 ---
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=bbluechip&count_private=true&theme=tokyonight&showicons=true)]()
-[![My Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bbluechip&theme=chartreuse-dark&layout=compact)]()
 
 ---
