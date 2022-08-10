@@ -14,7 +14,7 @@
 ---
 
 ## Languages and Frameworks Used:
-
+ <img align="center" width="50%" height="50%" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif"> 
 <a href="https://getbootstrap.com" target="_blank" title ="bootstrap"> <img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
 alt="bootstrap" width="40" height="40" /> </a>
@@ -46,6 +46,5 @@ alt="react" width="40" height="40" /> </a>
  <img src="https://github-readme-stats.vercel.app/api/?username=bbluechip&count_private=true&theme=tokyonight&showicons=true" alt="languages" width="49.5%">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbluechip&theme=chartreuse-dark&layout=compact" alt="languages" width="49%">
  <div>
- <img align="center" width="100%" height="100%" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif"> 
   
 ---
