@@ -2,7 +2,7 @@
 
 ---
 
-### Current Project:
+<!-- ### Current Project: -->
 
 ### Current Learning Goals: Javascript & React
 
