@@ -3,9 +3,9 @@
 
 
 <p align="center"><b> You can reach me </b></p>
-
- <b style = {font-weight: 600}>Visitors Count</b>
+<div align="center">
  [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orhan-berk-d-2a8a7b238/) 
+ </div>
 <!-- <a href="https://github.com/bbluechip" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> --> <!-- <img src="https://komarev.com/ghpvc/?username=bbluechip" alt="visitor counter"/> --> 
 </p>
 
