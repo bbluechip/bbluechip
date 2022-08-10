@@ -2,7 +2,7 @@
 <p align="left">
 
 
-<p align="center"><b> You can reach me </b></p>
+<p align="center"><b>👇🏻 You can reach me on 👇🏻</b></p>
 <div align="center">
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orhan-berk-d-2a8a7b238/)  
