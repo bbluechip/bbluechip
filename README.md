@@ -13,8 +13,8 @@
 
 ---
 
-## 🎫Languages and Frameworks🎫 
-<a href="https://www.linkedin.com/in/orhan-berk-d-2a8a7b238/" target="_blank" title ="night_coder"> <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" alt="coder" width="40" height="40" /> </a> 
+## <a href="https://www.linkedin.com/in/orhan-berk-d-2a8a7b238/" target="_blank" title ="night_coder"> <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" alt="coder" width="30" height="30" /> </a> Languages and Frameworks
+
 <a href="https://getbootstrap.com" target="_blank" title ="bootstrap"> <img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
 alt="bootstrap" width="40" height="40" /> </a>
@@ -37,7 +37,6 @@ alt="react" width="40" height="40" /> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="gitHub" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="40"/> </a>
-<a href="https://www.linkedin.com/in/orhan-berk-d-2a8a7b238/" target="_blank" title ="night_coder"> <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" alt="coder" width="40" height="40" /> </a>
 
 
 ---
