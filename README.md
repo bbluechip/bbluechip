@@ -13,9 +13,9 @@
 
 ---
 
-## Languages and Frameworks
+## <a href="https://www.linkedin.com/in/orhan-berk-d-2a8a7b238/" target="_blank" title ="night_coder"> <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" alt="coder" width="38" height="38"/> </a> Languages and Frameworks
 
-<a href="https://www.linkedin.com/in/orhan-berk-d-2a8a7b238/" target="_blank" title ="night_coder"> <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" alt="coder" width="40" height="40"/> </a> 
+
 <a href="https://getbootstrap.com" target="_blank" title ="bootstrap"> <img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
 alt="bootstrap" width="40" height="40"/> </a>
