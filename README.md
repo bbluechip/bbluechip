@@ -14,7 +14,7 @@
 ---
 
 ## Languages and Frameworks Used:
- <img align="center" width="50%" height="50%" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif"> 
+ <img border-radius ="20px" align="center" width="50%" height="50%" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif"> 
 <a href="https://getbootstrap.com" target="_blank" title ="bootstrap"> <img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
 alt="bootstrap" width="40" height="40" /> </a>
