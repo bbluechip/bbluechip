@@ -14,7 +14,7 @@
 ---
 
 ## Languages and Frameworks Used:
-<a href="https://www.linkedin.com/in/orhan-berk-d-2a8a7b238/" target="_blank" title ="night_coder"> <img
+<a href="https://www.linkedin.com/in/orhan-berk-d-2a8a7b238/" target="_blank" title ="night_coder"> <img align="left" float ="right"
 src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif"
 alt="coder" width="40" height="40" /> </a>
 <a href="https://getbootstrap.com" target="_blank" title ="bootstrap"> <img
