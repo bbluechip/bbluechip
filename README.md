@@ -4,10 +4,10 @@
 
 <!-- ### Current Project: -->
 
-### Current Learning Goals: Javascript & React
+### Current Learning Goals: Full stack development
 
 - 👉 I'm studying at Vistula University CS & IT trainee at Clarusway
-- 🎓 I'm currently learning Javascript & React.
+- 🌃 I'm currently coding at night.
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/orhan-berk-d-2a8a7b238/)
 - 🌎 I’m looking to collaborate on anything
 
