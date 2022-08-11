@@ -1,6 +1,6 @@
 ## I’m Orhan / bbluechip🎫
 
-<img alt="Coder GIF" height=500 width=100% src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
+<img alt="Coder GIF" height=600 width=100% src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
 
 
 <!-- ### Current Project: -->
