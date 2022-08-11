@@ -4,7 +4,7 @@
 
 <!-- ### Current Project: -->
 
-### Current Learning Goals: Full stack development
+## Current Learning Goals: Full stack development
 
 - 👉 I'm studying at Vistula University CS & IT trainee at Clarusway
 - 🌃 I'm currently coding at night.
