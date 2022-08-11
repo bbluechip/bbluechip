@@ -1,10 +1,6 @@
 ## I’m Orhan / bbluechip🎫
-
 <img alt="Coder GIF" height=600 width=100% src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
-
-
 <!-- ### Current Project: -->
-
 ## Current Learning Goals: Full stack development
 
 - 👉 I'm studying at Vistula University C.S. & IT trainee at Clarusway
