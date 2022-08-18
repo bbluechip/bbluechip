@@ -41,8 +41,8 @@ alt="react" width="40" height="40" /> </a>
 
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/?username=none&count_private=true&theme=tokyonight&showicons=true" alt="languages" width="49.5%">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=none&theme=chartreuse-dark&layout=compact" alt="languages" width="49%">
+ <img src="https://github-readme-stats.vercel.app/api/?username=bbluechip&count_private=true&theme=tokyonight&showicons=true" alt="languages" width="49.5%">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbluechip&theme=chartreuse-dark&layout=compact" alt="languages" width="49%">
  <div>
   
 
