@@ -1,5 +1,5 @@
 ## I’m Orhan / bbluechip🎫
-<img alt="Coder GIF" height=600 width=100% src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
+<img alt="Coder GIF" height=626 width=417 src="https://img.freepik.com/free-vector/online-games-concept_23-2148529971.jpg" />
 <!-- ### Current Project: -->
 
 ## Current Learning Goals: Full stack development
