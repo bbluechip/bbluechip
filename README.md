@@ -1,12 +1,15 @@
-## I’m Orhan / bbluechip🎫 [![Github](https://img.shields.io/github/followers/bbluechip?label=Follow&style=social)](https://github.com/bbluechip)
+## I’m Orhan / bbluechip🎫 
+<kbd>
 <img alt="Coder GIF" height=417 width=626 src="https://img.freepik.com/free-vector/online-games-concept_23-2148529971.jpg" />
+</kbd>
 <!-- ### Current Project: -->
 
-## Current Learning Goals: Full stack development
+## I'm coder and C.s student
 
-- 👉 I'm studying at Vistula University C.S. & IT trainee at Clarusway
+- 👉 I love coding
 - 🌃 I'm currently coding at night.
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/orhan-berk-d-2a8a7b238/)
+- 🎯 Follow: [![Github](https://img.shields.io/github/followers/bbluechip?label=Follow&style=social)](https://github.com/bbluechip)
 - 🌎 I’m looking to collaborate on anything
 
 
