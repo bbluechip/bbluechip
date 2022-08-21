@@ -1,4 +1,4 @@
-## I’m Orhan / bbluechip🎫
+## I’m Orhan / bbluechip🎫 [![Github](https://img.shields.io/github/followers/bbluechip?label=Follow&style=social)](https://github.com/bbluechip)
 <img alt="Coder GIF" height=417 width=626 src="https://img.freepik.com/free-vector/online-games-concept_23-2148529971.jpg" />
 <!-- ### Current Project: -->
 
