@@ -1,6 +1,6 @@
 ## I’m Orhan / bbluechip 🎫 
 <kbd>
-<img alt="Coder GIF" height=417 width=626 src="https://github.com/bbluechip/bbluechip/blob/main/img.jpeg" />
+<img alt="Coder GIF" height=300 width=310 src="https://github.com/bbluechip/bbluechip/blob/main/img.jpg" />
 </kbd>
 <!-- ### Current Project: -->
 
