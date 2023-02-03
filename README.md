@@ -38,6 +38,9 @@ alt="react" width="40" height="40" /> </a>
 <a href="https://firebase.google.com/" target="_blank" title ="Firebase-backend"> <img
 src="https://miro.medium.com/max/300/1*R4c8lHBHuH5qyqOtZb3h-w.png"
 alt="react" width="40" height="40" /> </a>
+
+<a href="#" target="_blank"> <img src="https://static.djangoproject.com/img/logos/django-logo-negative.1d528e2cb5fb.png" height="40"/> </a>
+
 <a href="https://www.typescriptlang.org/" target="_blank" title ="Typescript"> <img
 src="https://www.tutorialsteacher.com/Content/images/home/typescript.svg"
 alt="react" width="40" height="40" /> </a>
