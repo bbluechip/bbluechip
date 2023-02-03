@@ -38,15 +38,15 @@ alt="react" width="40" height="40" /> </a>
 <a href="https://firebase.google.com/" target="_blank" title ="Firebase-backend"> <img
 src="https://miro.medium.com/max/300/1*R4c8lHBHuH5qyqOtZb3h-w.png"
 alt="react" width="40" height="40" /> </a>
-
 <a href="#" target="_blank"> <img src="https://static.djangoproject.com/img/logos/django-logo-negative.1d528e2cb5fb.png" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://www.django-rest-framework.org/img/logo.png" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://media.licdn.com/dms/image/D4D12AQF2V7HvPX0UPQ/article-cover_image-shrink_600_2000/0/1661770860269?e=2147483647&v=beta&t=-ADRg_N0qDURBaZ3oeYZCzogJautYm_UHBBKU-HXzDk" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TuxFlat.svg/800px-TuxFlat.svg.png" height="40"/> </a>
-
+<a href="#" target="_blank"> <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_251be2af3ae607c45c14e816eaa1cf41/postgresql.png" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" title ="Typescript"> <img
 src="https://www.tutorialsteacher.com/Content/images/home/typescript.svg"
 alt="react" width="40" height="40" /> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://miro.medium.com/max/579/1*8oUV4Vpjb01iAZB7OI3Usg.png" alt="git" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="gitHub" height="40"/> </a>
