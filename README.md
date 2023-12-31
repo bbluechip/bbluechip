@@ -4,7 +4,7 @@
 </kbd>
 <!-- ### Current Project: -->
 
-## I'm coder and C.s student
+## Web Developer 
 
 - 👉 I love coding
 - 🌃 Python - JS
