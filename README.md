@@ -1,7 +1,7 @@
 <!-- ## I’m Orhan / bbluechip 🎫 -->
-<kbd>
+<!-- <kbd> -->
 <!-- <img alt="Coder GIF" height=450 width=480 src="https://github.com/bbluechip/bbluechip/blob/main/coder.jpeg" /> -->
-</kbd>
+<!-- </kbd> -->
 <!-- ### Current Project: -->
 
 ## I’m bbluechip, FS Web Developer 
