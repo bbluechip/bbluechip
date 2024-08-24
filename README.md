@@ -10,7 +10,7 @@
 - 🌃 Python - JS
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/orhan-berk-d-2a8a7b238/)
 - 🎯 Follow: [![Github](https://img.shields.io/github/followers/bbluechip?label=Follow&style=social)](https://github.com/bbluechip)
-- 🌎 I’m looking to collaborate on anything
+<!-- - 🌎 I’m looking to collaborate on anything -->
 
 
 
