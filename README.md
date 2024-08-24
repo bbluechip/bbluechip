@@ -1,10 +1,10 @@
-## I’m Orhan / bbluechip 🎫 
+<!-- ## I’m Orhan / bbluechip 🎫 -->
 <kbd>
 <!-- <img alt="Coder GIF" height=450 width=480 src="https://github.com/bbluechip/bbluechip/blob/main/coder.jpeg" /> -->
 </kbd>
 <!-- ### Current Project: -->
 
-## Web Developer 
+## I’m bbluechip, FS Web Developer 
 
 - 👉 I love coding
 - 🌃 Python - JS
